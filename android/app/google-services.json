@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790746020635",
+    "project_id": "meditation-f40c3",
+    "storage_bucket": "meditation-f40c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790746020635:android:1c2cac2af7c091180fb1be",
+        "android_client_info": {
+          "package_name": "com.bhargav.meditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790746020635-8ks1qktnmn2r6mqo7rr14hleja286g1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9f5dJl7ho7_VN_YKaFjZxtsFdMc_Im0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790746020635-8ks1qktnmn2r6mqo7rr14hleja286g1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
